@@ -17,6 +17,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailavij&layout=compact&hide=html" alt="shailavij" /></p>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Preprocessing Sequence Data in Keras(Padding & Masking Techniques](https://shailaja21.medium.com/preprocessing-sequence-data-in-keras-padding-masking-techniques-aa087fe7319c)
+<!-- BLOG-POST-LIST:END -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
 
 
