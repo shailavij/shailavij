@@ -20,7 +20,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Preprocessing Sequence Data in Keras(Padding & Masking Techniques](https://shailaja21.medium.com/preprocessing-sequence-data-in-keras-padding-masking-techniques-aa087fe7319c)<!-- BLOG-POST-LIST:END -->
+- [Preprocessing Sequence Data in Keras(Padding & Masking Techniques](https://shailaja21.medium.com/preprocessing-sequence-data-in-keras-padding-masking-techniques-aa087fe7319c)
+- [Batch transcription-Speech to Text in Microsoft Azure Logic Apps](https://shailaja21.medium.com/batch-transcription-speech-to-text-in-microsoft-azure-logic-apps-cff75baff7d5)
+<!-- BLOG-POST-LIST:END -->
 
 
 
