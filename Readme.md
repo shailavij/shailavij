@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
+<p>&nbsp;<img align="center" ![Shailavij's GitHub stats] src="https://github-stats-alpha.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
 
 
 ![Shailavij's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailavij)
