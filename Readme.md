@@ -27,7 +27,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
-[![shailavij's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailavij)](https://github.com/shailavij/github-readme-stats)
 
+https://github-stats-alpha.vercel.app/api?username={shailavij}
 
 
