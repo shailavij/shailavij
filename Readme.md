@@ -27,6 +27,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
-[![Shailaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailavij)](https://github.com/shailavij![Uploading image.png…]()
-/github-readme-stats)
+[![Shailaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailavij)](https://github.com/shailavij/github-readme-stats)
 
