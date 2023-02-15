@@ -30,6 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=shailavij&show_icons=true" alt="shailavij" /></p>
 
+<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=shailavij)](https://github.com/anuraghazra/github-readme-stats) /></p>
+
+
 
 
 
